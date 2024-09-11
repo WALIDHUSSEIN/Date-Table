@@ -1,4 +1,6 @@
 Power Query Date Dimension Table
+
+
 This repository contains a Power Query script for creating a Date Dimension Table in Power BI or Excel. The script is provided in a .txt file and can be used to generate a custom date table that spans any range of dates.
 
 Features
